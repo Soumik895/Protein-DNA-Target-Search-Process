@@ -1,4 +1,4 @@
-# Protein Search for Targets on DNA: A Theoretical Approach
+# Protein Searches for Targets on DNA: A Theoretical Approach
 
 **Author:** Soumik Nath  
 **Institution:** Indian Institute of Science Education and Research (IISER) Bhopal  
